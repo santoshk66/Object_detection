@@ -1,0 +1,8 @@
+flask
+opencv-python-headless
+ultralytics
+torch
+numpy
+pandas
+gunicorn
+openpyxl
